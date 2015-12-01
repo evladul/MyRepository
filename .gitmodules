@@ -1,0 +1,4 @@
+[submodule "theModule"]
+	path = theModule
+	url = https://github.com/evladul/MyRepository.git
+	branch = submoduleBranch
